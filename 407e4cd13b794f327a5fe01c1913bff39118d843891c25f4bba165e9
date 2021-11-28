@@ -1,0 +1,9 @@
+{
+    "policyId": "407e4cd13b794f327a5fe01c1913bff39118d843891c25f4bba165e9",
+    "name": "Blockchaingames",
+    "symbol": "BCG",
+    "website": "https://www.blockchaingames.company/",
+    "description": "Blockchaingames creates #CNFT MOBILE GAMES on #IOS/#ANDROID/ Download links on our websiteFire"
+    "totalSupply": 100000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000]
+}
